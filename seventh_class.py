@@ -1,1 +1,1 @@
-print("Venkata Krishna Rao Atukuri ")
+print("Venkata Krishna Rao")
