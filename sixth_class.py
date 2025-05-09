@@ -1,1 +1,0 @@
-print("Venkata Krishna Atukuri")
